@@ -70,6 +70,19 @@ In this case study, we will use EDA to understand how consumer attributes and lo
 
 **Conclusions/Suggestions**
 
+		1.	Grade G loans were riskier followed by F, E, D, C, B, A.
+		2.	More than 50% of F5 sub-grade type loans were defaulted, followed by G3 sub-grade type.
+		3.	Percentage of defaulters were highest in the category of 'small_business' purpose.
+		4.	Percentage of defaulters were high in those who opted for 60 months loan term than 36 months loan term.
+		5.	Even though majority of the loans taken and defaulted are highest in CA state, NE state defaulter percentage is highest with ~60%.
+		6.	Charged-off loan percentage is increasing as the ‘rate of interest’ and ‘revolving credit utilization’ is increasing.
+		7.	More than 50% of loans with below criteria are charged-off:
+			•	Loan amount between 21k & 35k and Active credit lines between 27 & 36.
+			•	Interest rates between 21% & 24% and Revolving credit utilization between 0% & 20%.
+			•	Interest rates between 21% & 24% and Debt to income ratio between 0% & 6%.
+			•	Annual income between 58k and 85k and Active credit lines between 36 & 44.
+
+
 
 **Contributer**
 
