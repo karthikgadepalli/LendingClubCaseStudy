@@ -54,17 +54,19 @@ In this case study, we will use EDA to understand how consumer attributes and lo
     
 **Technologies Used**
 
-    •	Python
+    •	Python - 3.11.7
+	
+	•	Anaconda - 2.5.2
     
-    •	Pandas
+    •	Pandas - 2.1.4
     
-    •	Jupiter
+    •	Jupyter - 7.0.8
     
-    •	NumPy
+    •	NumPy - 1.26.4
     
-    •	Matplotlib
+    •	Matplotlib - 3.8.0
     
-    •	Seaborn 
+    •	Seaborn - 0.12.2
 
 **Conclusions/Suggestions**
 
